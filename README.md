@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:E8FFCE,100:ACFADF&height=300&section=header&text=JooicyCool's%20Github&desc=Welcome%20here%20😚😚&fontSize=70&animation=fadeIn&fontAlignY=40&descAlign=80)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:E8FFCE,100:ACFADF&height=300&section=header&text=Juicycool's%20Github&desc=Welcome%20here%20😚😚&fontSize=70&animation=fadeIn&fontAlignY=40&descAlign=80)
 
 > Hi My name is Si-hyeon Joo, who dreams of becoming a Front-End developer.
 
