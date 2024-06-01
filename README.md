@@ -11,6 +11,14 @@
 ![JoocyCool's GitHub stats](https://github-readme-stats.vercel.app/api?username=sean2337&&show_icons=true&theme=solarized-light&rank_icon=github)
 
 
+<br/>
+
+# 🚀 Career
+- **🦁 멋쟁이사자처럼 10기 프론트엔드 트랙** <sub><sup>2022.01.01~2022.12.31</sup></sub>
+- **🦁 멋쟁이사자처럼 11기 운영진** <sub><sup>2023.01.01~2023.12.31</sup></sub> 
+- **🚙 현대자동차그룹 소프티어 부트캠프 - 웹 프론트엔드** <sub><sup>2023.12.28~2024.02.29</sup></sub>
+- **💻 디프만 15기 - Web Frontend Developer** <sub><sup>2024.06.01 ~ ing</sup></sub>
+
 
 <br/>
 
