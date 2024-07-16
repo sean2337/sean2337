@@ -28,15 +28,25 @@
 | 🚛 HAUL 🚛 | 기존 화물 운송 예약 플랫폼의 한계를 극복한 화물 운송 간편 예약 플랫폼 | 2024.01 ~ 2024.02 | FE Leader, UI/UX Leader | 현대자동차그룹 | [GitHub](https://github.com/sean2337/Team4-HansalChai) |
 | 🚙 휴게소를 부탁해 🚙 | 장단점 위주 휴게소 모아보기 서비스 | 2024.01 ~ 2024.01 | FE Developer | 현대자동차그룹 | [GitHub 링크](https://github.com/sean2337/softee5-hyundaittakdae-FE) |
 | ☔️ SAFE ☔️ | 딥러닝을 활용한 사용자 맞춤형 침수차 위험 지도 제공 서비스 | 2023.08 ~ 2024.05 | Web Leader, UI/UX Leader | 인하대학교 | [GitHub](https://github.com/sean2337/SAFE) |
-| 📝 Ecord 📝 | 차세대 전자영수증 통합 플랫폼 | 2023.01 ~ 2023.01 | FE Developer | 2023-Super-Challenge-Hackathon | [GitHub](https://github.com/Ecord-2023-super-challenge-hackathon/ecord-frontend) |
-| 🚗 Baro 🚗 | Active Mobility (이동형 공간)를 위한 플랫폼 | 2023.02 ~ 2023.02 | FE Developer, UI/UX Assistant | 2023년 현대모비스 해커톤 | [GitHub](https://github.com/sean2337/Baro-FE) |
+| 📝 Ecord 📝 | 차세대 전자영수증 통합 플랫폼 | 2023.01 ~ 2023.01 | FE Developer | 2023년도 슈퍼 챌린지 해커톤 | [GitHub](https://github.com/Ecord-2023-super-challenge-hackathon/ecord-frontend) |
+| 🚗 Baro 🚗 | Active Mobility (이동형 공간)를 위한 플랫폼 | 2023.02 ~ 2023.02 | FE Developer, UI/UX Assistant | 2023년도 현대모비스 해커톤 | [GitHub](https://github.com/sean2337/Baro-FE) |
 | 🛰️ Gaim 🛰️ | GPS만을 이용한 보정 위치정보 제공 서비스 앱 (이중차분 알고리즘) | 2022.08 ~ 2022.12 | App Developer, GNSS Engineer, UI/UX Designer | 인하대학교 | [GitHub](https://github.com/sean2337/Gaim_project) |
 | 💖 덕꾸 💖 | 토큰형 음반 및 온라인 앨범 보관 플랫폼 | 2022.07 ~ 2022.08 | FE Developer | 멋쟁이사자처럼 대학 | [GitHub](https://github.com/sean2337/Duckku-fe) |
-| 🎨 Personal 🎨 | Personal를 통해 나를 나타내는 색과 음색을 정의해 드립니다. | 2022.06 ~ 2022.07 | FE Developer | 멋쟁이사자처럼 대학 - 인하대학교 | [GitHub](https://github.com/sean2337/inha-hackathon-Personal-fe) |
-| ⽙ Sansoo ⽙ | Sansoo_NFT 프로젝트를 위한 소개 페이지 개발 | 2022.05 ~ 2022.06 | Web Leader, UI/UX Leader, NFT Storyteller | 멋쟁이사자처럼 | [GitHub](https://github.com/sean2337/SansooNFT-project) |
+|🎨 퍼스널 🎨| Personal를 통해 나를 나타내는 색과 음색을 정의해 드립니다. | 2022.06 ~ 2022.07 | FE Developer | 멋쟁이사자처럼 대학 - 인하대학교 | [GitHub](https://github.com/sean2337/inha-hackathon-Personal-fe) |
+| 🎋 산수 🎋 | Sansoo_NFT 프로젝트를 위한 소개 페이지 개발 | 2022.05 ~ 2022.06 | Web Leader, UI/UX Leader, NFT Storyteller | 멋쟁이사자처럼 | [GitHub](https://github.com/sean2337/SansooNFT-project) |
 
 
+<br/>
 
+# Award history
+🥇 **2024 현대자동차그룹 소프티어 부트캠프 3기 최종심사 (우수 소프티어) - 현대자동차그룹** 
+<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;팀 한살차이 - [HAUL] 기존 화물 운송 예약 플랫폼의 한계를 극복한 화물 운송 간편 예약 플랫폼
+<br/><br/>🥇 **2023년도 지리학대회 (우수논문상) - 대한지리학회, 공간정보산업진흥원**
+<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;팀 SAFE - [SAFE] 딥러닝을 활용한 차량 별 침수 위험 예측 모델 개발 및 사용자 맞춤 침수차 위험 지도 제공 서비스
+<br/><br/>🥉 **제5회 공간정보 활용 아이디어 경진대회 (장려상, 공간정보진흥원장상) - 공간정보산업진흥원** - <a href="https://conpaper.tistory.com/111232">관련 기사</a> 
+<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;팀 SAFE - [SAFE] 딥러닝을 활용한 차량 별 침수 위험 예측 모델 개발 및 사용자 맞춤 침수차 위험 지도 제공 서비스
+<br/><br/>🥈 **멋쟁이사자차럼 중앙 해커톤 (은상, 강남언니상) - 멋쟁이사자처럼**
+<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;팀 깃닫고 입올려 - [덕꾸]토큰형 음반 및 온라인 앨범 보관 플랫폼
 
 
 <br/>
