@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:E8FFCE,100:ACFADF&height=300&section=header&text=Juicycool's%20Github&desc=Welcome%20here%20😚😚&fontSize=70&animation=fadeIn&fontAlignY=40&descAlign=80)
 
-> Hi My name is Si-hyeon Joo, who dreams of becoming a Front-End developer.
+> 안녕하세요~ 사람들의 일상생활 속에 사소한 편안함을 선물하고 싶어, 프론트엔드 개발자가 된 주시현이라고 합니다.
 
 <br/>
 <br/>
@@ -59,9 +59,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sean2337&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
-Currently, I use `JavaScript` as my main languages.<br/>
-I've sorted these in the order I use them most often 😄😄<br/>
-The table above is the distribution for the languages ​​I have uploaded to github.
+지금은 JavaScript를 주로 사용하고 있어요.<br/>
+제가 자주 사용하는 순서대로 정리해봤어요 😄😄<br/>
+위 표는 제가 GitHub에 업로드한 언어들의 분포를 나타내요.
 
 <br/>
 
@@ -90,10 +90,12 @@ The table above is the distribution for the languages ​​I have uploaded to g
 <img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
 
 
-I am currently learning related technologies, focusing on the `Front-End` field.<br/>
-As frameworks I use frequently, I use `React` and `Next.js` depending on the situation.<br/>
-I can specialize in `geospatial technology`.<br/>
-I am also studying skills in other domains to understand others when collaborating.
+
+
+현재 프론트엔드 분야에 집중하며 관련 기술들을 배우고 있어요 💡<br/>
+자주 사용하는 프레임워크로는 상황에 따라 React와 Next.js를 사용해요 🔧<br/>
+저는 공간정보 기술을 웹 개발에 적용할 수 있어요 🌐<br/>
+협업할 때 다른 사람들을 이해하기 위해 다른 분야의 기술들도 공부하고 있어요 📚
 
 <br/>
 
@@ -105,9 +107,9 @@ I am also studying skills in other domains to understand others when collaborati
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 
 
-I usually use `Visual Studio Code`, which is familiar for front-end development. <br/>
-When developing other languages ​​or fields, I use IDEs/Editors like the ones above.<br/>
-For collaboration, we use Git.
+저는 보통 프론트엔드 개발에 익숙한 Visual Studio Code를 사용해요 😊<br/>
+다른 언어나 분야를 개발할 때는 위에 언급된 IDE/에디터들을 사용해요 💻<br/>
+협업할 때는 Git이나 Jira를 사용해요 🤝
 
 <br/>
 
