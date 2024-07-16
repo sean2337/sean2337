@@ -79,9 +79,13 @@
 <img src="https://img.shields.io/badge/recoil-3578E5?style=for-the-badge&logo=Recoil&logoColor=white">
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
+현재 프론트엔드 분야에 집중하며 관련 기술들을 배우고 있어요 💡<br/>
+자주 사용하는 프레임워크로는 상황에 따라 React와 Next.js를 사용해요 🔧<br/>
+
 ## Spatial information related technology
 <img src="https://img.shields.io/badge/qgis-589632?style=for-the-badge&logo=Qgis&logoColor=white"> <img src="https://img.shields.io/badge/arcgis-2C7AC3?style=for-the-badge&logo=ArcGIS&logoColor=white">
 
+저는 공간정보 기술을 웹 개발에 적용할 수 있어요 🌐<br/>
 
 ## ETC
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
@@ -89,12 +93,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
 <img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
 
-
-
-
-현재 프론트엔드 분야에 집중하며 관련 기술들을 배우고 있어요 💡<br/>
-자주 사용하는 프레임워크로는 상황에 따라 React와 Next.js를 사용해요 🔧<br/>
-저는 공간정보 기술을 웹 개발에 적용할 수 있어요 🌐<br/>
 협업할 때 다른 사람들을 이해하기 위해 다른 분야의 기술들도 공부하고 있어요 📚
 
 <br/>
@@ -107,7 +105,7 @@
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 
 
-저는 보통 프론트엔드 개발에 익숙한 Visual Studio Code를 사용해요 😊<br/>
+저는 보통 프론트엔드 개발에 익숙한 Visual Studio Code를 사용하고 있고, <br/>
 다른 언어나 분야를 개발할 때는 위에 언급된 IDE/에디터들을 사용해요 💻<br/>
 협업할 때는 Git이나 Jira를 사용해요 🤝
 
