@@ -116,7 +116,3 @@
 # 🤔 My SNS
  <a href="https://velog.io/@sean2337" target="Velog_sean2337"><img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"></a>
  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://instagram.com/joosi_cool?igshid=MmIzYWVlNDQ5Yg==)](https://instagram.com/joosi_cool?igshid=MmIzYWVlNDQ5Yg==)
-
-I will continue to write about the things I am studying and write them on my blog.<br/>
-I also try to document what I learn about coding as often as possible, including problems with coding tests.<br/>
-You can visit my social media by clicking the icon above.
