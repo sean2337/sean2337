@@ -17,7 +17,7 @@
 - **🦁 멋쟁이사자처럼 10기 프론트엔드 트랙** <sub><sup>2022.01.01~2022.12.31</sup></sub>
 - **🦁 멋쟁이사자처럼 11기 운영진** <sub><sup>2023.01.01~2023.12.31</sup></sub> 
 - **🚙 현대자동차그룹 소프티어 부트캠프 - 웹 프론트엔드** <sub><sup>2023.12.28~2024.02.29</sup></sub>
-- **💻 디프만 15기 - Web Frontend Developer** <sub><sup>2024.06.01 ~ ing</sup></sub>
+- **💻 디프만 15기 - Web Frontend Developer** <sub><sup>2024.06.01 ~ 2024.09.14</sup></sub>
 - **📘 삼성 청년 SW 아카데미 12기** <sub><sup>2024.07.02 ~ ing</sup></sub>
 
 <br/>
@@ -25,6 +25,7 @@
 # 🔥Project
 | 프로젝트 명 | 프로젝트 소개 | 기간 | 역할 | 발주처 | GitHub 주소 |
 |-------------|---------------|------|------|--------|-------------|
+| 📘 Layer 📘 | 회고 작성부터 AI 분석까지 성장하는 당신을 위한 회고 서비스, Layer  | 2024.06 ~ ing | FE Leader | 디프만 (DEEPROMEET) | [GitHub](https://github.com/depromeet/layer) |
 | 🚛 HAUL 🚛 | 기존 화물 운송 예약 플랫폼의 한계를 극복한 화물 운송 간편 예약 플랫폼 | 2024.01 ~ 2024.02 | FE Leader, UI/UX Leader | 현대자동차그룹 | [GitHub](https://github.com/sean2337/Team4-HansalChai) |
 | 🚙 휴게소를 부탁해 🚙 | 장단점 위주 휴게소 모아보기 서비스 | 2024.01 ~ 2024.01 | FE Developer | 현대자동차그룹 | [GitHub](https://github.com/sean2337/softee5-hyundaittakdae-FE) |
 | ☔️ SAFE ☔️ | 딥러닝을 활용한 사용자 맞춤형 침수차 위험 지도 제공 서비스 | 2023.08 ~ 2024.05 | Web Leader, UI/UX Leader | 개인 프로젝트 | [GitHub](https://github.com/sean2337/SAFE) |
