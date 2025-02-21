@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:E8FFCE,100:ACFADF&height=300&section=header&text=Juicycool's%20Github&desc=Welcome%20here%20😚😚&fontSize=70&animation=fadeIn&fontAlignY=40&descAlign=80)
 
-> 안녕하세요~ 사람들의 일상생활 속에 사소한 편안함을 선물하고 싶어, 프론트엔드 개발자가 된 주시현이라고 합니다.
+> 안녕하세요~ 사람들의 일상생활 속에 사소한 편안함을 선물하고 싶어,엔지니어가 된 주시현이라고 합니다.
 
 <br/>
 <br/>
